@@ -1,6 +1,6 @@
 # Flask Blog
 
-From the [Python flask tutorials]([Flask Tutorials - YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)) by `Corey Schafer`
+From the [Python flask tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) by `Corey Schafer`
 
 ------
 
